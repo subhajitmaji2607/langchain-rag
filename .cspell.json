@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "ollama",
+    "pathlib",
+    "pydantic",
+    "fastapi"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "**/__pycache__/**",
+    ".venv/**",
+    "*.pyc"
+  ],
+  "languageSettings": [
+    {
+      "languageId": "python",
+      "allowCompoundWords": true
+    }
+  ]
+}
